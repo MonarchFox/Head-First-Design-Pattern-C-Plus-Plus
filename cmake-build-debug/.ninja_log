@@ -1,0 +1,23 @@
+# ninja log v5
+10	839	7362973901938809	CMakeFiles/untitled.dir/main.cpp.obj	ba6bfd876ad0c1ff
+5	283	7363884969974963	build.ninja	48e89cc41dcddfae
+840	1026	7362973903768161	untitled.exe	6c035cf827838619
+12	957	7362399704392150	CMakeFiles/untitled.dir/Chapter_1_Intro_To_Design_Patterns/Duck.cpp.obj	22828baa1d8e46fe
+42	1047	7362966398267001	CMakeFiles/untitled.dir/Chapter_2_The_Observer_Pattern/CustomDisplay.cpp.obj	65caa126dcf2b54b
+47	890	7362966396707267	CMakeFiles/untitled.dir/Chapter_2_The_Observer_Pattern/WeatherData.cpp.obj	9a3782cbe6bf0643
+11	1375	7363904640697099	CMakeFiles/untitled.dir/main.cpp.obj	ba6bfd876ad0c1ff
+29	1431	7363904641268054	CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Store/PizzaStore.cpp.obj	5d7277f3c44a53f0
+35	1492	7363904641870830	CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Pizzas/Pizza.cpp.obj	1def50e9882c47e3
+23	1581	7363904642751327	CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Store/ChicagoPizzaStore.cpp.obj	ddda80be427d41a6
+17	1587	7363904642796422	CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Store/NYPizzaStore.cpp.obj	5a17453bc33c6d0c
+1587	2034	7363904647219390	untitled.exe	a66e5ca5a13ce6cb
+13	1111	7363905877663175	CMakeFiles/untitled.dir/main.cpp.obj	ba6bfd876ad0c1ff
+1112	1337	7363905879878306	untitled.exe	a66e5ca5a13ce6cb
+11	900	7363912803268765	CMakeFiles/untitled.dir/main.cpp.obj	ba6bfd876ad0c1ff
+901	1123	7363912805443247	untitled.exe	a66e5ca5a13ce6cb
+11	946	7363912908142360	CMakeFiles/untitled.dir/main.cpp.obj	ba6bfd876ad0c1ff
+947	1174	7363912910367939	untitled.exe	a66e5ca5a13ce6cb
+10	957	7363913198829675	CMakeFiles/untitled.dir/main.cpp.obj	ba6bfd876ad0c1ff
+957	1202	7363913201225520	untitled.exe	a66e5ca5a13ce6cb
+10	926	7363913322367431	CMakeFiles/untitled.dir/main.cpp.obj	ba6bfd876ad0c1ff
+927	1158	7363913324627783	untitled.exe	a66e5ca5a13ce6cb
