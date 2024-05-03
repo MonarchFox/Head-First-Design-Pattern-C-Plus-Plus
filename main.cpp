@@ -1,21 +1,13 @@
 #include <iostream>
-
-#include "Chapter_4_The_Factory_Pattern/Pizzas/Pizza.h"
-#include "Chapter_4_The_Factory_Pattern/Store/ChicagoPizzaStore.h"
-#include "Chapter_4_The_Factory_Pattern/Store/NYPizzaStore.h"
-#include "Chapter_4_The_Factory_Pattern/Store/PizzaStore.h"
 using namespace std;
 
-
+// TODO: Created Base Class for each elements poppulate them all
+// TODO: Add Bill Construction before moving on
+// TODO: Add Recipt Construction Before Moving on
+// TODO: Lets use Observer Pattern make Pizza the subjet and BillConstruction the Observer to prepare bill and add them.
 
 int main()
 {
     // Test
-    PizzaStore* NyStore = new NYPizzaStore();
-    PizzaStore* ChicagoStore = new ChicagoPizzaStore();
-
-    Pizza* pizza = NyStore->orderPizza("cheese");
-    cout << "\n";
-    pizza = ChicagoStore->orderPizza("cheese");
     return 0;
 }

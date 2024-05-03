@@ -59,7 +59,9 @@
 				23,
 				25,
 				28,
-				29
+				29,
+				32,
+				40
 			]
 		}
 	],
@@ -103,7 +105,9 @@
 				23,
 				25,
 				28,
-				29
+				29,
+				32,
+				40
 			]
 		},
 		{
@@ -131,7 +135,16 @@
 				22,
 				24,
 				26,
-				27
+				27,
+				30,
+				31,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39
 			]
 		}
 	],
@@ -253,46 +266,103 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Chapter_4_The_Factory_Pattern/Store/PizzaStore.h",
+			"path" : "Chapter_4_The_Factory_Pattern/Middle_Implementation/Store/PizzaStore.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Chapter_4_The_Factory_Pattern/Store/NYPizzaStore.cpp",
+			"path" : "Chapter_4_The_Factory_Pattern/Middle_Implementation/Store/NYPizzaStore.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Chapter_4_The_Factory_Pattern/Store/NYPizzaStore.h",
+			"path" : "Chapter_4_The_Factory_Pattern/Middle_Implementation/Store/NYPizzaStore.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Chapter_4_The_Factory_Pattern/Store/ChicagoPizzaStore.cpp",
+			"path" : "Chapter_4_The_Factory_Pattern/Middle_Implementation/Store/ChicagoPizzaStore.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Chapter_4_The_Factory_Pattern/Store/ChicagoPizzaStore.h",
+			"path" : "Chapter_4_The_Factory_Pattern/Middle_Implementation/Store/ChicagoPizzaStore.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Chapter_4_The_Factory_Pattern/Pizzas/Pizza.h",
+			"path" : "Chapter_4_The_Factory_Pattern/Middle_Implementation/Pizzas/Pizza.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Chapter_4_The_Factory_Pattern/Store/PizzaStore.cpp",
+			"path" : "Chapter_4_The_Factory_Pattern/Middle_Implementation/Store/PizzaStore.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Chapter_4_The_Factory_Pattern/Pizzas/Pizza.cpp",
+			"path" : "Chapter_4_The_Factory_Pattern/Middle_Implementation/Pizzas/Pizza.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Chapter_4_The_Factory_Pattern/Final_Implementation/Public/Stores/PizzaStore.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Chapter_4_The_Factory_Pattern/Final_Implementation/Public/IngredientRegions/PizzaIngredientFactory.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Chapter_4_The_Factory_Pattern/Final_Implementation/Private/Stores/PizzaStore.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Chapter_4_The_Factory_Pattern/Final_Implementation/Public/IngredientRegions/Cheese/Cheese.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Chapter_4_The_Factory_Pattern/Final_Implementation/Public/IngredientRegions/Clam/Clam.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Chapter_4_The_Factory_Pattern/Final_Implementation/Public/IngredientRegions/Dough/Dough.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Chapter_4_The_Factory_Pattern/Final_Implementation/Public/IngredientRegions/Pepperoni/Pepperoni.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Chapter_4_The_Factory_Pattern/Final_Implementation/Public/IngredientRegions/Sauce/Sauce.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Chapter_4_The_Factory_Pattern/Final_Implementation/Public/IngredientRegions/Veggies/Veggies.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Chapter_4_The_Factory_Pattern/Final_Implementation/Public/Pizza/Pizza.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Chapter_4_The_Factory_Pattern/Final_Implementation/Private/Pizza/Pizza.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
