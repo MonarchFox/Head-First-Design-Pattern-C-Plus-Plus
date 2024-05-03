@@ -55,60 +55,6 @@ build CMakeFiles/untitled.dir/main.cpp.obj: CXX_COMPILER__untitled_unscanned_Deb
   OBJECT_DIR = CMakeFiles\untitled.dir
   OBJECT_FILE_DIR = CMakeFiles\untitled.dir
 
-build CMakeFiles/untitled.dir/Chapter_1_Intro_To_Design_Patterns/Duck.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/niffo/CLionProjects/untitled/Chapter_1_Intro_To_Design_Patterns/Duck.cpp || cmake_object_order_depends_target_untitled
-  DEP_FILE = CMakeFiles\untitled.dir\Chapter_1_Intro_To_Design_Patterns\Duck.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\untitled.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\Chapter_1_Intro_To_Design_Patterns
-
-build CMakeFiles/untitled.dir/Chapter_2_The_Observer_Pattern/CustomDisplay.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/niffo/CLionProjects/untitled/Chapter_2_The_Observer_Pattern/CustomDisplay.cpp || cmake_object_order_depends_target_untitled
-  DEP_FILE = CMakeFiles\untitled.dir\Chapter_2_The_Observer_Pattern\CustomDisplay.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\untitled.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\Chapter_2_The_Observer_Pattern
-
-build CMakeFiles/untitled.dir/Chapter_2_The_Observer_Pattern/WeatherData.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/niffo/CLionProjects/untitled/Chapter_2_The_Observer_Pattern/WeatherData.cpp || cmake_object_order_depends_target_untitled
-  DEP_FILE = CMakeFiles\untitled.dir\Chapter_2_The_Observer_Pattern\WeatherData.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\untitled.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\Chapter_2_The_Observer_Pattern
-
-build CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Middle_Implementation/Store/NYPizzaStore.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/niffo/CLionProjects/untitled/Chapter_4_The_Factory_Pattern/Middle_Implementation/Store/NYPizzaStore.cpp || cmake_object_order_depends_target_untitled
-  DEP_FILE = CMakeFiles\untitled.dir\Chapter_4_The_Factory_Pattern\Middle_Implementation\Store\NYPizzaStore.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\untitled.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\Chapter_4_The_Factory_Pattern\Middle_Implementation\Store
-
-build CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Middle_Implementation/Store/ChicagoPizzaStore.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/niffo/CLionProjects/untitled/Chapter_4_The_Factory_Pattern/Middle_Implementation/Store/ChicagoPizzaStore.cpp || cmake_object_order_depends_target_untitled
-  DEP_FILE = CMakeFiles\untitled.dir\Chapter_4_The_Factory_Pattern\Middle_Implementation\Store\ChicagoPizzaStore.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\untitled.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\Chapter_4_The_Factory_Pattern\Middle_Implementation\Store
-
-build CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Middle_Implementation/Store/PizzaStore.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/niffo/CLionProjects/untitled/Chapter_4_The_Factory_Pattern/Middle_Implementation/Store/PizzaStore.cpp || cmake_object_order_depends_target_untitled
-  DEP_FILE = CMakeFiles\untitled.dir\Chapter_4_The_Factory_Pattern\Middle_Implementation\Store\PizzaStore.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\untitled.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\Chapter_4_The_Factory_Pattern\Middle_Implementation\Store
-
-build CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Middle_Implementation/Pizzas/Pizza.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/niffo/CLionProjects/untitled/Chapter_4_The_Factory_Pattern/Middle_Implementation/Pizzas/Pizza.cpp || cmake_object_order_depends_target_untitled
-  DEP_FILE = CMakeFiles\untitled.dir\Chapter_4_The_Factory_Pattern\Middle_Implementation\Pizzas\Pizza.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\untitled.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\Chapter_4_The_Factory_Pattern\Middle_Implementation\Pizzas
-
-build CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Final_Implementation/Private/Stores/PizzaStore.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/niffo/CLionProjects/untitled/Chapter_4_The_Factory_Pattern/Final_Implementation/Private/Stores/PizzaStore.cpp || cmake_object_order_depends_target_untitled
-  DEP_FILE = CMakeFiles\untitled.dir\Chapter_4_The_Factory_Pattern\Final_Implementation\Private\Stores\PizzaStore.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\untitled.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\Chapter_4_The_Factory_Pattern\Final_Implementation\Private\Stores
-
-build CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Final_Implementation/Private/Pizza/Pizza.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/niffo/CLionProjects/untitled/Chapter_4_The_Factory_Pattern/Final_Implementation/Private/Pizza/Pizza.cpp || cmake_object_order_depends_target_untitled
-  DEP_FILE = CMakeFiles\untitled.dir\Chapter_4_The_Factory_Pattern\Final_Implementation\Private\Pizza\Pizza.cpp.obj.d
-  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\untitled.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\Chapter_4_The_Factory_Pattern\Final_Implementation\Private\Pizza
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target untitled
@@ -117,7 +63,7 @@ build CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Final_Implementation
 #############################################
 # Link the executable untitled.exe
 
-build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/main.cpp.obj CMakeFiles/untitled.dir/Chapter_1_Intro_To_Design_Patterns/Duck.cpp.obj CMakeFiles/untitled.dir/Chapter_2_The_Observer_Pattern/CustomDisplay.cpp.obj CMakeFiles/untitled.dir/Chapter_2_The_Observer_Pattern/WeatherData.cpp.obj CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Middle_Implementation/Store/NYPizzaStore.cpp.obj CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Middle_Implementation/Store/ChicagoPizzaStore.cpp.obj CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Middle_Implementation/Store/PizzaStore.cpp.obj CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Middle_Implementation/Pizzas/Pizza.cpp.obj CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Final_Implementation/Private/Stores/PizzaStore.cpp.obj CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Final_Implementation/Private/Pizza/Pizza.cpp.obj
+build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/main.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\untitled.dir
