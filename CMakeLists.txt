@@ -5,8 +5,9 @@ set(CMAKE_CXX_STANDARD 26)
 
 add_executable(untitled main.cpp
         Chapter_6_The_Command_Pattern/CommandInterface.h
-        Chapter_6_The_Command_Pattern/Appliances.cpp
-        Chapter_6_The_Command_Pattern/Appliances.h
+        Chapter_6_The_Command_Pattern/ApplianceItems.cpp
+        Chapter_6_The_Command_Pattern/AppliancesCommands.h
         Chapter_6_The_Command_Pattern/SimpleRemoteControl.h
-        Chapter_6_The_Command_Pattern/Item.h
+        Chapter_6_The_Command_Pattern/ApplianceItems.h
+        Chapter_6_The_Command_Pattern/RemoteControl.h
 )
