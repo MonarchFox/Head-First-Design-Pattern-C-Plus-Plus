@@ -1,6 +1,6 @@
 # ninja log v5
 12	888	7364779998726819	CMakeFiles/untitled.dir/main.cpp.obj	ba6bfd876ad0c1ff
-7	298	7364780726054049	build.ninja	48e89cc41dcddfae
+5	288	7365884602590362	build.ninja	48e89cc41dcddfae
 927	1158	7363913324627783	untitled.exe	a66e5ca5a13ce6cb
 29	1431	7363904641268054	CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Store/PizzaStore.cpp.obj	5d7277f3c44a53f0
 12	957	7362399704392150	CMakeFiles/untitled.dir/Chapter_1_Intro_To_Design_Patterns/Duck.cpp.obj	22828baa1d8e46fe
@@ -15,4 +15,3 @@
 44	1539	7364777599350100	CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Final_Implementation/Private/Pizza/Pizza.cpp.obj	9fdc5c7688481798
 12	945	7364780400603122	CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Middle_Implementation/Pizzas/Pizza.cpp.obj	4b8488a26e285683
 14	1622	7364777600177970	CMakeFiles/untitled.dir/Chapter_4_The_Factory_Pattern/Middle_Implementation/Store/NYPizzaStore.cpp.obj	938f41ac89a66741
-5	288	7364780726054049	build.ninja	48e89cc41dcddfae
