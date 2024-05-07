@@ -1,34 +1,36 @@
 #include <iostream>
 
-#include "Chapter_6_The_Command_Pattern/AppliancesCommands.h"
-#include "Chapter_6_The_Command_Pattern/ApplianceItems.h"
-#include "Chapter_6_The_Command_Pattern/RemoteControl.h"
-#include "Chapter_6_The_Command_Pattern/SimpleRemoteControl.h"
+#include "Chapter_7_The_Adapter_And_Facade_Pattern/Interfaces.h"
+#include "Chapter_7_The_Adapter_And_Facade_Pattern/Users.h"
 using namespace std;
+
+
+void TestDuck(Duck* duck) {
+    duck->Quack();
+    duck->Fly();
+}
+
+void TestTurkey(Turkey* turkey) {
+    turkey->Gobble();
+    turkey->Fly();
+}
 
 
 int main()
 {
-    // Test
+    // Test Case 1
+    Duck* duck = new MallardDuck();
+    Turkey* turkey = new WildTurkey();
+    TurkeyInDuckAdapter* turkey_adapter = new TurkeyInDuckAdapter(turkey);
+    DuckInTurkeyAdapter* duck_adapter = new DuckInTurkeyAdapter(duck);
 
-    // Case 1
-    RemoteControl* remote_control = new RemoteControl();
-    Light* light_1 = new Light("living room");
-    Light* light_2 = new Light("Bathroom");
+    TestDuck(duck);
+    TestDuck(turkey_adapter);
 
-    LightOnCommand* light_on_command_1 = new LightOnCommand(light_1);
-    LightOnCommand* light_on_command_2 = new LightOnCommand(light_2);
+    std::cout << "\n\n";
 
-    LightOffCommand* light_off_command_1 = new LightOffCommand(light_1);
-    LightOffCommand* light_off_command_2 = new LightOffCommand(light_2);
-
-    remote_control->SetCommand(0, light_on_command_1, light_off_command_1);
-    remote_control->SetCommand(1, light_on_command_2, light_off_command_2);
-
-    remote_control->OnButtonPushed(0);
-    remote_control->OffButtonPushed(1);
-
-    std::cout << remote_control->ToString();
+    TestTurkey(duck_adapter);
+    TestTurkey(turkey);
 
     return 0;
 }

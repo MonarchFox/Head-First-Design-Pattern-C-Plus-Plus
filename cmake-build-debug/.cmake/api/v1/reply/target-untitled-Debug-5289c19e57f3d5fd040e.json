@@ -102,7 +102,9 @@
 				3,
 				4,
 				5,
-				6
+				6,
+				7,
+				8
 			]
 		}
 	],
@@ -143,6 +145,16 @@
 		{
 			"backtrace" : 1,
 			"path" : "Chapter_6_The_Command_Pattern/RemoteControl.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Chapter_7_The_Adapter_And_Facade_Pattern/Interfaces.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Chapter_7_The_Adapter_And_Facade_Pattern/Users.h",
 			"sourceGroupIndex" : 1
 		}
 	],
